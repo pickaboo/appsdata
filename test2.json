@@ -1,0 +1,60 @@
+{
+  "gcm_sender_id": "103953800507",
+  "name": "techapp",
+  "short_name": "techapp",
+  "theme_color": "#1976d2",
+  "background_color": "#fafafa",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/techapp",
+  "icons": [
+    {
+      "src": "https://firebasestorage.googleapis.com/v0/b/app-appsson-mob-data/o/icons%2Ftechapp%2Ffavicon-192.png?alt=media&token=9dad9790-0ec5-4a64-95a9-2061906bd98f",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "https://firebasestorage.googleapis.com/v0/b/app-appsson-mob-data/o/icons%2Ftechapp%2Ffavicon-192.png?alt=media&token=9dad9790-0ec5-4a64-95a9-2061906bd98f",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "https://firebasestorage.googleapis.com/v0/b/app-appsson-mob-data/o/icons%2Ftechapp%2Ffavicon-192.png?alt=media&token=9dad9790-0ec5-4a64-95a9-2061906bd98f",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "https://firebasestorage.googleapis.com/v0/b/app-appsson-mob-data/o/icons%2Ftechapp%2Ffavicon-192.png?alt=media&token=9dad9790-0ec5-4a64-95a9-2061906bd98f",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "https://firebasestorage.googleapis.com/v0/b/app-appsson-mob-data/o/icons%2Ftechapp%2Ffavicon-180-precomposed.png?alt=media&token=dcdbbf03-40e0-4565-8153-9ece29c68daf",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "https://firebasestorage.googleapis.com/v0/b/app-appsson-mob-data/o/icons%2Ftechapp%2Ffavicon-96.png?alt=media&token=c3e67e37-63a7-4c61-b146-0a9a28daf5ae",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "https://firebasestorage.googleapis.com/v0/b/app-appsson-mob-data/o/icons%2Ftechapp%2Ffavicon-192.png?alt=media&token=9dad9790-0ec5-4a64-95a9-2061906bd98f",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "https://firebasestorage.googleapis.com/v0/b/app-appsson-mob-data/o/icons%2Ftechapp%2Ffavicon-192.png?alt=media&token=9dad9790-0ec5-4a64-95a9-2061906bd98f",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ]
+}
