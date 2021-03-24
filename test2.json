@@ -1,12 +1,12 @@
 {
   "gcm_sender_id": "103953800507",
-  "name": "techapp",
-  "short_name": "techapp",
+  "name": "test2",
+  "short_name": "test2",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
   "scope": "/",
-  "start_url": "/techapp",
+  "start_url": "/test2",
   "icons": [
     {
       "src": "https://firebasestorage.googleapis.com/v0/b/app-appsson-mob-data/o/icons%2Ftechapp%2Ffavicon-192.png?alt=media&token=9dad9790-0ec5-4a64-95a9-2061906bd98f",
